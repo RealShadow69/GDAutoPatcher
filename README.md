@@ -13,8 +13,8 @@ Command | Description
 --------| -----------
 help | help
 error | Provides troubleshooting steps
-4GB | Used BEFORE a version number (no spaces) will result in the [4GB Patch](https://ntcore.com/4gb-patch) being automatically applied 
-Geode | Used AFTER a version number (no spaces) will result in [Geode](https://geode-sdk.org) being automatically downloaded along with GD
+4GB | Used BEFORE a version number from 1.9-2.204 (no spaces) will result in the [4GB Patch](https://ntcore.com/4gb-patch) being automatically applied 
+Geode | Used AFTER a version number from 2.204-2.206 (no spaces) will result in [Geode](https://geode-sdk.org) being automatically downloaded along with GD
 ALL | Using this command will result in all available versions being downloaded
 4GB2.204Geode | You can prob guess by looking at the command only available for 2.204 
 
