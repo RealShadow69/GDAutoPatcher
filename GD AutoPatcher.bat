@@ -23,7 +23,6 @@ REM 4GB2.11. Download 2.11 4GB Patch
 REM 4GB2.204. Download 2.204 4GB Patch
 REM 4GB2.206. Download 2.206 4GB Patch
 REM -----------------------------------
-REM 1.9Geode. Download 1.9 Geode
 REM 2.0Geode. Download 2.0 Geode
 REM 2.11Geode. Download 2.11 Geode
 REM 2.204Geode. Download 2.204 Geode
