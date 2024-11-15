@@ -1,5 +1,5 @@
 # GDAutoPatcher
-Batch Script that can download downgraded game files
+Batch Script that can download downgraded game files from 1.9-2.206
 # Disclaimer
 This is not piracy you still need to own the game for this to work also do not worry about save coruption as the files have the exe renamed so your game saves in a different folder just copy your save data over 
 # This Script uses GDown
