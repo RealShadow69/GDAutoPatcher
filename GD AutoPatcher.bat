@@ -49,6 +49,7 @@ REM Error troubleshoot
 IF %a%==error (Echo If the console closed after tpying a command you either don't have gdown installed instructions are on the github
 Echo Or you typed the command wrong this is CaSe-SenSiTive or you typed a command that doesn't exist type 'help' for the list of commands
 Echo If the game didn't start then you're pirating or you didn't have steam oppened 
+Echo Try running GD as Admin see if that fixes it
 Echo If the zip file was unable to download then there might be an issue with the google drive contact realshadow69 on discord in this case
 Echo If all else fails just download the zip files from the google drive that this is being downloaded from: https://drive.google.com/drive/folders/1kusyH0-15UvrJCqLAhBfJn2YyQDPQb9z?usp=drive_link
 Echo Or use the Steam Console or Steam Depot Downloader to get the files
