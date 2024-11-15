@@ -2,8 +2,8 @@
 Batch Script that can download downgraded game files
 # Disclaimer
 This is not piracy you still need to own the game for this to work also do not worry about save coruption as the files have the exe renamed so your game saves in a different folder just copy your save data over 
-# This Script uses gdown
-[gdown](https://github.com/wkentaro/gdown) must be installed to use this script as well as [python](https://www.python.org) to install it
+# This Script uses GDown
+[GDown](https://github.com/wkentaro/gdown) must be installed to use this script as well as [Python](https://www.python.org) to install it
 
 # Usage
 Start the script and type a version number to start downloading (also see additional options below) full list of available versions include, 1.9, 2.0, 2.11, 2.204, 2.206
