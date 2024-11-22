@@ -6,7 +6,7 @@ This is not piracy you still need to own the game for this to work also do not w
 [GDown](https://github.com/wkentaro/gdown) must be installed to use this script as well as [Python](https://www.python.org) with pip to install it
 
 # Usage
-Start the script and type a version number to start downloading (also see additional options below) full list of available versions include, 1.9, 2.0, 2.11, 2.204, 2.206
+Start the script and type a version number to start downloading (also see additional options below) full list of available versions include, 1.93, 2.01, 2.113, 2.204, 2.206
 After the download is done unzip the file and start the game then copy your save data over to the new folder created in the localappdata directory 
 Consult the 'error' command in the script if you encounter issues 
 Command | Description
