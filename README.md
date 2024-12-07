@@ -1,5 +1,9 @@
 # GDAutoPatcher
 Python Script that can download downgraded Geometry Dash game files from 1.9-2.206 Windows/Linux and MacOS supported
+
+# You need Python installed to use this script
+Obviously..
+
 # Disclaimer
 This is not piracy you still need to own the game for this to work also do not worry about save coruption as the files have the exe renamed so your game saves in a different folder just copy your save data over 
 
